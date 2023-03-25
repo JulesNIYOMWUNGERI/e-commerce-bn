@@ -1,0 +1,5 @@
+{
+    "eslint.runtime": "",
+    "eslint.trace.server": "off",
+    "esversion": 6
+}

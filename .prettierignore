@@ -1,0 +1,10 @@
+/coverage
+/build
+.husky/pre-commit
+.eslintignore
+.prettierignore
+/build
+/build
+.husky/pre-commit
+.eslintignore
+.prettierignore
